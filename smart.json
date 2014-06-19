@@ -1,5 +1,6 @@
 {
   "packages": {
-    "blog": {}
+    "blog": {},
+    "bootstrap-3": {}
   }
 }

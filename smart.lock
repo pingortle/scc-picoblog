@@ -2,13 +2,19 @@
   "meteor": {},
   "dependencies": {
     "basePackages": {
-      "blog": {}
+      "blog": {},
+      "bootstrap-3": {}
     },
     "packages": {
       "blog": {
         "git": "https://github.com/Differential/meteor-blog.git",
         "tag": "v0.4.3",
         "commit": "c38fde8f57c1260ee2583a7c9ba7309adbbd4359"
+      },
+      "bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
+        "tag": "v3.1.1-1",
+        "commit": "63dd38968828bb8963636df93e9a1c45e2dfe67e"
       },
       "iron-router": {
         "git": "https://github.com/EventedMind/iron-router.git",

@@ -8,3 +8,7 @@ autopublish
 insecure
 accounts-base
 blog
+accounts-ui
+accounts-password
+bootstrap-3
+jquery
