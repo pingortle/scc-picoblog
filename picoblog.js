@@ -11,8 +11,8 @@ if (Meteor.isClient) {
 
 if (Meteor.isServer) {
   Meteor.startup(function () {
-    // Blog.config({
-    //   adminRole: 'blogAdmin',
-    // });
+    Blog.config({
+      adminRole: 'blogAdmin',
+    });
   });
 }
